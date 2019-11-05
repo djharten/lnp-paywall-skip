@@ -4,7 +4,7 @@ This script bypasses the paywall on LancasterOnline articles. The page persists 
 
 ## Installation
 
-Clone repo from [here](200~https://github.com/djharten/lnp-paywall-skip.git), or download the ZIP from [here](https://github.com/djharten/lnp-paywall-skip/archive/master.zip).
+Clone repo from [here](https://github.com/djharten/lnp-paywall-skip.git), or download the ZIP from [here](https://github.com/djharten/lnp-paywall-skip/archive/master.zip).
 
 Run ```pip install -r requirements.txt```
 
