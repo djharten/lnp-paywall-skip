@@ -17,5 +17,5 @@ class ScrapeLNP:
 		chrome_options = Options()
 		chrome_options.add_experimental_option("detach", True)
 		self.driver.get(self.url)
-		time.sleep(10)
+		time.sleep(600)
 		self.driver.close()
